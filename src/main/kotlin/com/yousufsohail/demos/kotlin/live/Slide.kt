@@ -3,26 +3,34 @@ package com.yousufsohail.demos.kotlin.live
 /*
 
 
-//TODO: What is Kotlin?
+//TODO: Meet Kotlin
 
- Kotlin is a statically-typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or uses the LLVM compiler infrastructure. Its primary development is from a team of JetBrains.
+A relatively new programming language created by JetBrains and targeting the JVM, Android and the browser. Kotlin is concise, safe, and fully interoperable with existing Java and JavaScript code.
 
- While the syntax is not compatible with Java, Kotlin is designed to interoperate with Java code.
-
-
+Kotlin helps avoid common errors such as NPEs and strives to make programming more pleasant.
 
 
 
-//TODO: Quick History, maybe?
 
-2011: Unveiled by JetBrains (fun fact: Swift unveiled in 2014)
+
+//TODO: Real quick history, maybe?
+
+2011: Unveiled by JetBrains
 2012: Open Sourced
+(2014: Apple introduced Swift)
 2016: Released v1.0
 2017: Google announced first-class support on Android
 
 
 
-//TODO: Lets go live
+
+
+
+//TODO: Lets code in Kotlin
+
+
+
+
 
 
 //TODO: Kotlin vs Java
@@ -32,7 +40,7 @@ package com.yousufsohail.demos.kotlin.live
 # Type-safe: Support for non-nullable types makes applications less prone to NPE’s.
 
 # Everywhere: Kotlin can be used for Android, front-end web, backend web
-and with Kotlin Native they are working to support macOS, iOS, and Raspberrypie. (https://github.com/JetBrains/kotlin-native)
+and with Kotlin Native they are working to support macOS, iOS, and Raspberry Pi. (https://github.com/JetBrains/kotlin-native)
 
 # Style : OOP as well as functional
 # Extension functions:
